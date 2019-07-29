@@ -18,5 +18,6 @@
     <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="org.osgi.core-6.0.0" level="project" />
     <orderEntry type="library" name="MigLayout" level="project" />
+    <orderEntry type="library" name="JGoodies Forms" level="project" />
   </component>
 </module>
